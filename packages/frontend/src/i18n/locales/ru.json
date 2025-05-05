@@ -1,0 +1,13 @@
+{
+    "notifications": "Уведомления",
+    "markAllAsRead": "Отметить все как прочитанные",
+    "clearAll": "Очистить все",
+    "noNotifications": "Нет уведомлений",
+    "notification": {
+        "trackAdded": "{{user}} добавил трек {{track}}",
+        "userJoined": "{{user}} присоединился к комнате",
+        "userLeft": "{{user}} покинул комнату",
+        "trackRemoved": "{{user}} удалил трек {{track}}",
+        "roomCreated": "{{user}} создал комнату {{room}}"
+    }
+}
