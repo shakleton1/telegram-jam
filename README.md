@@ -106,7 +106,7 @@
 1. Клонирование репозитория:
 ```bash
 # Клонирование
-git clone https://github.com/your-username/telegram-jam.git
+git clone https://github.com/shakleton1/telegram-jam.git
 cd telegram-jam
 
 # Проверка ветки
