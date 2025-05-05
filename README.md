@@ -139,7 +139,7 @@ npm run build
 
 ## Настройка окружения
 
-### Бэкенд (packages/backend/vvv)
+### Бэкенд (packages/backend/.env)
 ```env
 # База данных
 DB_HOST=localhost
@@ -179,7 +179,7 @@ RATE_LIMIT_WINDOW=15
 RATE_LIMIT_MAX=100
 ```
 
-### Фронтенд (packages/frontend/vvv)
+### Фронтенд (packages/frontend/.env)
 ```env
 # API URL
 VITE_API_URL=http://localhost:3000/api
